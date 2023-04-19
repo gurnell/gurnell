@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey there 🙋🏽‍♀️
 
-<!--
-**gurnell/gurnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gurnell, a junior data analyst transitioning into database engineering.😀
 
-Here are some ideas to get you started:
+### ✨ About me ✨
+* Data analyst who loves working with data.
+* SQL enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Currently ⚡
+* Working on portfolio projects.
+* Learning database engineering with Meta.
+
+### 💡 My skills
+* Data preparation, analysis and visualization.
+* Perform advanced SQL queries.
+* Create dashboards and data cleaning reports.
+* Exploratory data analysis.
+
+### 🧰 My tools 🧰
+* Databases: SQL(MySQL, Microsoft SQL Server), Microsoft Excel.
+* Python.
+* Visualization: Microsoft Power BI.
+* Git.
+
+### 🙌🏽 Connect with me
+* [Linkedin](https://www.linkedin.com/in/gurnell-owilli-3ba50a225/)
+* [Medium](https://medium.com/@guowili16)
